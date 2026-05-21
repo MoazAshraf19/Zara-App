@@ -1,6 +1,7 @@
 # Zara App - Fashion E-Commerce Mobile Application
 
-![Zara App Showcase](docs/zara-showcase.png)
+<img width="1672" height="941" alt="Zarar App" src="https://github.com/user-attachments/assets/17f1d71d-8251-4287-96ca-f70ed1306da9" />
+
 
 ## Project Overview
 
